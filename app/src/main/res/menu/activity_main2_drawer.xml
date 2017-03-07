@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Home"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Home"
+            tools:ignore="HardcodedText" />
+        <item
+            android:id="@+id/Academics"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Academics"
+            tools:ignore="HardcodedText" />
+        <item
+            android:id="@+id/Attendence"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Attendance"
+            tools:ignore="HardcodedText" />
+        <item
+            android:id="@+id/Gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Gallery"
+            tools:ignore="HardcodedText" />
+        <item
+            android:id="@+id/Syllabus"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Syllabus and Assignments"
+            tools:ignore="HardcodedText" />
+        <item
+            android:id="@+id/Extra_Curricular"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Extra_Curricular"
+            tools:ignore="HardcodedText" />
+        <item
+            android:id="@+id/Departments"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Departments"
+            tools:ignore="HardcodedText" />
+        <item
+            android:id="@+id/Placements"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Placements"
+            tools:ignore="HardcodedText" />
+
+    </group>
+
+    <item
+        android:title="Communication"
+        tools:ignore="HardcodedText">
+        <menu>
+            <item
+                android:id="@+id/Contact_Us"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Contact Us" />
+            <item
+                android:id="@+id/About_Us"
+                android:icon="@drawable/ic_menu_send"
+                android:title="About_Us" />
+        </menu>
+    </item>
+
+</menu>

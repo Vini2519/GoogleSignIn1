@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "695585133630",
+    "firebase_url": "https://bmietapp.firebaseio.com",
+    "project_id": "bmietapp",
+    "storage_bucket": "bmietapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695585133630:android:79823e004a926af9",
+        "android_client_info": {
+          "package_name": "com.example.vineetjain.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695585133630-pmg2e8lu782knlarsvugva4ugi6q3vjb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vineetjain.googlesignin",
+            "certificate_hash": "CBF62C07C8A11E9C107C999C2A20BA406182911B"
+          }
+        },
+        {
+          "client_id": "695585133630-340p75e5vi6tin2g2mdg8rs2r8vthqe0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vineetjain.googlesignin",
+            "certificate_hash": "BA68DCBB76C3C3643F719FB5C594EED635E18A49"
+          }
+        },
+        {
+          "client_id": "695585133630-rl8nminvpcd4gt9kvphjf6c4nap0tnk4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vineetjain.googlesignin",
+            "certificate_hash": "F141F5ACC5405132B30D7DB04B5CB9D5A43AEDC2"
+          }
+        },
+        {
+          "client_id": "695585133630-kj8nuhri27ivqj728f8lm7k0lm5i9shm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4z2f-PPxp9N4sTmtmCxkMY95cai0MjJ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695585133630-kj8nuhri27ivqj728f8lm7k0lm5i9shm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
